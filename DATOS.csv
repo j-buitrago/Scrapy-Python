@@ -1,0 +1,349 @@
+estacion,parada,linea,ascensor,escaleras,accesible,stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,tipoTransporte
+PINAR DE CHAMARTIN,1,1,0,0, 1,est_4_263,263.0,PINAR DE CHAMARTIN,N/A,40.480140000000006,-3.6668,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+BAMBU,2,1,1,1, 1,est_4_262,262.0,BAMBU,N/A,40.476820000000004,-3.67637,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CHAMARTIN,3,1,1,1, 1,est_90_25,25.0,CHAMARTIN,Calle de Agustín de Foxá 40,40.4721,-3.68269,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PLAZA DE CASTILLA,4,1,0,1, 1,est_90_21,21.0,PLAZA DE CASTILLA,Paseo de la Castellana 189,40.4669,-3.6892,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+VALDEACEDERAS,5,1,0,0, 0,est_4_2,2.0,VALDEACEDERAS,N/A,40.464420000000004,-3.69506,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+TETUAN,6,1,0,0, 0,est_4_3,3.0,TETUAN,N/A,40.46055,-3.69825,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ESTRECHO,7,1,0,0, 0,est_4_4,4.0,ESTRECHO,N/A,40.45429,-3.7030199999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ALVARADO,8,1,0,0, 0,est_4_5,5.0,ALVARADO,N/A,40.45033,-3.7033099999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CUATRO CAMINOS,9,1,1,1, 1,est_4_6,6.0,CUATRO CAMINOS,N/A,40.44697,-3.7039699999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+RIOS ROSAS,10,1,0,0, 0,est_4_7,7.0,RIOS ROSAS,N/A,40.44198,-3.7013300000000005,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+IGLESIA,11,1,1,0, 1,est_4_8,8.0,IGLESIA,N/A,40.43492,-3.69898,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+BILBAO,12,1,0,0, 0,est_4_9,9.0,BILBAO,N/A,40.42906,-3.7021800000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+TRIBUNAL,13,1,0,1, 0,est_4_10,10.0,TRIBUNAL,N/A,40.426190000000005,-3.7011,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+GRAN VIA,14,1,0,1, 0,est_4_11,11.0,GRAN VIA,N/A,40.42001,-3.7018,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SOL,15,1,0,0, 1,est_90_58,58.0,SOL,Plaza de la Puerta del Sol 6,40.41688,-3.7033099999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+TIRSO DE MOLINA,16,1,0,0, 0,est_4_13,13.0,TIRSO DE MOLINA,N/A,40.41235,-3.70466,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ANTON MARTIN,17,1,0,0, 0,est_4_14,14.0,ANTON MARTIN,N/A,40.412459999999996,-3.6993699999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ESTACION DEL ARTE,18,1,0,0, 0,est_4_15,15.0,ESTACION DEL ARTE,N/A,40.40885,-3.6924900000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ATOCHA RENFE,19,1,0,1, 1,est_90_54,54.0,ATOCHA RENFE,Avda de la Ciudad de Barcelona 2 B,40.40659,-3.6894400000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+MENENDEZ PELAYO,20,1,0,0, 0,est_4_17,17.0,MENENDEZ PELAYO,N/A,40.40445,-3.6809800000000004,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PACIFICO,21,1,0,1, 1,est_4_18,18.0,PACIFICO,N/A,40.40126,-3.6751400000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PUENTE DE VALLECAS,22,1,0,0, 0,est_4_19,19.0,PUENTE DE VALLECAS,N/A,40.39819,-3.66906,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+NUEVA NUMANCIA,23,1,0,1, 0,est_4_20,20.0,NUEVA NUMANCIA,N/A,40.395540000000004,-3.66414,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PORTAZGO,24,1,0,1, 0,est_4_21,21.0,PORTAZGO,N/A,40.39266,-3.6586800000000004,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+BUENOS AIRES,25,1,0,1, 0,est_4_22,22.0,BUENOS AIRES,N/A,40.39156,-3.6539099999999998,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ALTO DEL ARENAL,26,1,0,0, 1,est_4_23,23.0,ALTO DEL ARENAL,N/A,40.38977,-3.6452199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MIGUEL HERNANDEZ,27,1,1,1, 1,est_4_24,24.0,MIGUEL HERNANDEZ,N/A,40.38732,-3.63951,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ SIERRA DE GUADALUPE,28,1,1,0, 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+VILLA DE VALLECAS,29,1,1,1, 1,est_4_26,26.0,VILLA DE VALLECAS,N/A,40.3796,-3.6213,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CONGOSTO,30,1,0,0, 1,est_4_27,27.0,CONGOSTO,N/A,40.37238,-3.61884,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LA GAVIA,31,1,0,0, 1,est_4_293,293.0,LA GAVIA,N/A,40.37019,-3.61346,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LAS SUERTES,32,1,0,0, 1,est_4_294,294.0,LAS SUERTES,N/A,40.36323,-3.59953,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+VALDECARROS,33,1,0,0, 1,est_4_295,295.0,VALDECARROS,N/A,40.36007,-3.5931599999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LAS ROSAS,1,2,1,1, 1,est_4_325,325.0,LAS ROSAS,N/A,40.42375,-3.60331,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+AVENIDA DE GUADALAJARA,2,2,1,1, 1,est_4_324,324.0,AVENIDA DE GUADALAJARA,N/A,40.42239,-3.61206,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ALSACIA,3,2,1,1, 1,est_4_323,323.0,ALSACIA,N/A,40.41829,-3.62351,N/A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+LA ALMUDENA,4,2,1,1, 1,est_4_322,322.0,LA ALMUDENA,N/A,40.42361,-3.6391400000000003,N/A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+LA ELIPA,5,2,1,1, 1,est_4_260,260.0,LA ELIPA,N/A,40.42662,-3.6505199999999998,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+VENTAS,6,2,0,0, 0,est_4_28,28.0,VENTAS,N/A,40.43088,-3.6636599999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+MANUEL BECERRA,7,2,0,1, 0,est_4_29,29.0,MANUEL BECERRA,N/A,40.4279,-3.66926,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+GOYA,8,2,1,0, 1,est_4_30,30.0,GOYA,N/A,40.42455,-3.67591,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PRINCIPE DE VERGARA,9,2,0,1, 0,est_4_31,31.0,PRINCIPE DE VERGARA,N/A,40.422940000000004,-3.6801199999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+RETIRO,10,2,0,0, 0,est_4_32,32.0,RETIRO,N/A,40.42031,-3.68624,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+BANCO DE ESPAÑA,11,2,0,0, 0,est_4_33,33.0,BANCO DE ESPAÑA,N/A,40.41922,-3.6949699999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SEVILLA,12,2,0,0, 0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+ SOL,13,2,0,0, 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+OPERA,14,2,1,1, 1,est_4_36,36.0,OPERA,N/A,40.41809,-3.7094199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SANTO DOMINGO,15,2,0,0, 0,est_4_37,37.0,SANTO DOMINGO,N/A,40.42132,-3.70796,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+NOVICIADO,16,2,0,1, 0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+SAN BERNARDO,17,2,0,0, 0,est_4_39,39.0,SAN BERNARDO,N/A,40.430009999999996,-3.70557,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+QUEVEDO,18,2,0,0, 0,est_4_40,40.0,QUEVEDO,N/A,40.43322,-3.70433,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CANAL,19,2,1,1, 1,est_4_41,41.0,CANAL,N/A,40.43841,-3.70433,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CUATRO CAMINOS,20,2,1,1, 1,est_4_6,6.0,CUATRO CAMINOS,N/A,40.44697,-3.7039699999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+VILLAVERDE ALTO,1,3,1,1, 1,est_4_273,273.0,VILLAVERDE ALTO,N/A,40.341229999999996,-3.71199,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SAN CRISTOBAL,2,3,1,1, 1,est_4_272,272.0,SAN CRISTOBAL,N/A,40.34154,-3.6931800000000004,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+VILLAVERDE BAJO-CRUCE,3,3,1,1, 1,est_4_271,271.0,VILLAVERDE BAJO-CRUCE,N/A,40.35089,-3.69265,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CIUDAD DE LOS ANGELES,4,3,1,1, 1,est_4_270,270.0,CIUDAD DE LOS ANGELES,N/A,40.359590000000004,-3.69363,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SAN FERMIN-ORCASUR,5,3,1,1, 1,est_4_269,269.0,SAN FERMIN-ORCASUR,N/A,40.36999,-3.6941800000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+HOSPITAL 12 DE OCTUBRE,6,3,1,1, 1,est_4_268,268.0,HOSPITAL 12 DE OCTUBRE,N/A,40.375029999999995,-3.69585,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ALMENDRALES,7,3,1,0, 1,est_4_267,267.0,ALMENDRALES,N/A,40.38409,-3.6978800000000005,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LEGAZPI,8,3,1,1, 1,est_4_43,43.0,LEGAZPI,N/A,40.39116,-3.6951099999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+DELICIAS,9,3,1,0, 1,est_4_44,44.0,DELICIAS,N/A,40.3999,-3.6942,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PALOS DE LA FRONTERA,10,3,1,0, 1,est_4_45,45.0,PALOS DE LA FRONTERA,N/A,40.40307,-3.69423,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+EMBAJADORES,11,3,1,0, 1,est_4_46,46.0,EMBAJADORES,N/A,40.40513,-3.7026800000000004,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LAVAPIES,12,3,1,0, 1,est_4_47,47.0,LAVAPIES,N/A,40.40851,-3.7009,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SOL,13,3,0,0, 1,est_90_58,58.0,SOL,Plaza de la Puerta del Sol 6,40.41688,-3.7033099999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CALLAO,14,3,1,0, 1,est_4_49,49.0,CALLAO,N/A,40.42014,-3.70566,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PLAZA DE ESPAÑA,15,3,1,0, 1,est_4_50,50.0,PLAZA DE ESPAÑA,N/A,40.42342,-3.7112,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+VENTURA RODRIGUEZ,16,3,1,0, 1,est_4_51,51.0,VENTURA RODRIGUEZ,N/A,40.42709,-3.7134099999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ARGÜELLES,17,3,1,0, 1,est_4_52,52.0,ARGÜELLES,N/A,40.430659999999996,-3.71596,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+MONCLOA,18,3,1,1, 1,est_90_14,14.0,MONCLOA,Plaza de la Moncloa 1,40.43523,-3.71919,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ARGÜELLES,1,4,1,0, 1,est_4_52,52.0,ARGÜELLES,N/A,40.430659999999996,-3.71596,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SAN BERNARDO,2,4,0,0, 0,est_4_39,39.0,SAN BERNARDO,N/A,40.430009999999996,-3.70557,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+BILBAO,3,4,0,0, 0,est_4_9,9.0,BILBAO,N/A,40.42906,-3.7021800000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ALONSO MARTINEZ,4,4,0,1, 0,est_4_57,57.0,ALONSO MARTINEZ,N/A,40.42772,-3.6959400000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+COLON,5,4,0,0, 0,est_4_58,58.0,COLON,N/A,40.42542,-3.69101,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SERRANO,6,4,0,0, 0,est_4_59,59.0,SERRANO,N/A,40.42543,-3.68663,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+VELAZQUEZ,7,4,0,0, 0,est_4_60,60.0,VELAZQUEZ,N/A,40.42503,-3.6829199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+GOYA,8,4,1,0, 1,est_4_30,30.0,GOYA,N/A,40.42455,-3.67591,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LISTA,9,4,0,0, 0,est_4_62,62.0,LISTA,N/A,40.42917,-3.67541,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+DIEGO DE LEON,10,4,0,1, 0,est_4_63,63.0,DIEGO DE LEON,N/A,40.43468,-3.67495,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+AVENIDA DE AMERICA,11,4,0,1, 0,est_90_4,4.0,AVENIDA DE AMERICA,Avda de América 9 A,40.43803,-3.6766900000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PROSPERIDAD,12,4,0,1, 0,est_4_65,65.0,PROSPERIDAD,N/A,40.44419,-3.6748199999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ALFONSO XIII,13,4,0,1, 0,est_4_66,66.0,ALFONSO XIII,N/A,40.44825,-3.66791,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+AVENIDA DE LA PAZ,14,4,0,1, 0,est_4_67,67.0,AVENIDA DE LA PAZ,N/A,40.453540000000004,-3.6611800000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ARTURO SORIA,15,4,0,1, 0,est_4_68,68.0,ARTURO SORIA,N/A,40.45583,-3.6561800000000004,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ESPERANZA,16,4,0,1, 0,est_4_69,69.0,ESPERANZA,N/A,40.45945,-3.6458199999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CANILLAS,17,4,1,1, 1,est_4_70,70.0,CANILLAS,N/A,40.463809999999995,-3.6356,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MAR DE CRISTAL,18,4,1,1, 1,est_4_71,71.0,MAR DE CRISTAL,N/A,40.469429999999996,-3.6383199999999998,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SAN LORENZO,19,4,1,1, 1,est_4_72,72.0,SAN LORENZO,N/A,40.474470000000004,-3.6395800000000005,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PARQUE DE SANTA MARIA,20,4,1,1, 1,est_4_73,73.0,PARQUE DE SANTA MARIA,N/A,40.477109999999996,-3.6452400000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+HORTALEZA,21,4,1,1, 1,est_4_264,264.0,HORTALEZA,N/A,40.47537,-3.65257,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MANOTERAS,22,4,1,1, 1,est_4_265,265.0,MANOTERAS,N/A,40.47687,-3.6629,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PINAR DE CHAMARTIN,23,4,0,0, 1,est_4_263,263.0,PINAR DE CHAMARTIN,N/A,40.480140000000006,-3.6668,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ALAMEDA DE OSUNA,1,5,0,0, 1,est_4_252,252.0,ALAMEDA DE OSUNA,N/A,40.45779,-3.5875199999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+EL CAPRICHO,2,5,0,0, 1,est_4_253,253.0,EL CAPRICHO,N/A,40.45347,-3.59401,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CANILLEJAS,3,5,0,1, 0,est_4_74,74.0,CANILLEJAS,N/A,40.44942,-3.60816,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+TORRE ARIAS,4,5,0,0, 0,est_4_75,75.0,TORRE ARIAS,N/A,40.443740000000005,-3.61699,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SUANZES,5,5,0,0, 0,est_4_76,76.0,SUANZES,N/A,40.44085,-3.62684,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CIUDAD LINEAL,6,5,0,0, 0,est_4_77,77.0,CIUDAD LINEAL,N/A,40.43805,-3.63816,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PUEBLO NUEVO,7,5,1,0, 1,est_4_78,78.0,PUEBLO NUEVO,N/A,40.43569,-3.6428199999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+QUINTANA,8,5,0,0, 0,est_4_79,79.0,QUINTANA,N/A,40.43358,-3.64736,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+EL CARMEN,9,5,0,1, 0,est_4_80,80.0,EL CARMEN,N/A,40.43189,-3.6575699999999998,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+VENTAS,10,5,0,0, 0,est_4_28,28.0,VENTAS,N/A,40.43088,-3.6636599999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+DIEGO DE LEON,11,5,0,1, 0,est_4_63,63.0,DIEGO DE LEON,N/A,40.43468,-3.67495,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+NUÑEZ DE BALBOA,12,5,0,1, 0,est_4_83,83.0,NUÑEZ DE BALBOA,N/A,40.43278,-3.68258,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+RUBEN DARIO,13,5,0,0, 0,est_4_84,84.0,RUBEN DARIO,N/A,40.43316,-3.68954,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ALONSO MARTINEZ,14,5,0,1, 0,est_4_57,57.0,ALONSO MARTINEZ,N/A,40.42772,-3.6959400000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CHUECA,15,5,0,1, 0,est_4_86,86.0,CHUECA,N/A,40.42293,-3.6976199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+GRAN VIA,16,5,0,1, 0,est_4_11,11.0,GRAN VIA,N/A,40.42001,-3.7018,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CALLAO,17,5,1,0, 1,est_4_49,49.0,CALLAO,N/A,40.42014,-3.70566,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+OPERA,18,5,1,1, 1,est_4_36,36.0,OPERA,N/A,40.41809,-3.7094199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+LA LATINA,19,5,0,1, 0,est_4_90,90.0,LA LATINA,N/A,40.41128,-3.70816,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PUERTA DE TOLEDO,20,5,0,0, 0,est_4_91,91.0,PUERTA DE TOLEDO,N/A,40.40704,-3.71105,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ACACIAS,21,5,0,0, 0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+ PIRAMIDES,22,5,1,1, 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+MARQUES DE VADILLO,23,5,0,0, 0,est_4_94,94.0,MARQUES DE VADILLO,N/A,40.39736,-3.71596,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+URGEL,24,5,0,0, 0,est_4_95,95.0,URGEL,N/A,40.39335,-3.7236,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+OPORTO,25,5,0,1, 0,est_4_96,96.0,OPORTO,N/A,40.388459999999995,-3.7313199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+VISTA ALEGRE,26,5,0,0, 0,est_4_97,97.0,VISTA ALEGRE,N/A,40.38885,-3.73982,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CARABANCHEL,27,5,0,0, 0,est_4_98,98.0,CARABANCHEL,N/A,40.38783,-3.7448699999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ EUGENIA DE MONTIJO,28,5,1,1, 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+ALUCHE,29,5,0,0, 1,est_90_1,1.0,ALUCHE,Calle de Valmojado 293,40.38563,-3.76085,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+EMPALME,30,5,0,0, 1,est_4_101,101.0,EMPALME,N/A,40.390570000000004,-3.76535,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CAMPAMENTO,31,5,0,0, 0,est_4_102,102.0,CAMPAMENTO,N/A,40.39481,-3.76813,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ CASA DE CAMPO,32,5,1,1, 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+LAGUNA,1,6,0,0, 1,est_4_104,104.0,LAGUNA,N/A,40.399229999999996,-3.7442900000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CARPETANA,2,6,1,1, 1,est_4_105,105.0,CARPETANA,N/A,40.3927,-3.74099,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+OPORTO,3,6,0,1, 0,est_4_96,96.0,OPORTO,N/A,40.388459999999995,-3.7313199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+OPAÑEL,4,6,0,1, 0,est_4_107,107.0,OPAÑEL,N/A,40.3869,-3.7231300000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PLAZA ELIPTICA,5,6,1,1, 1,est_90_36,36.0,PLAZA ELIPTICA,Calle  Vía Lusitana 2,40.3846,-3.7184800000000005,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+USERA,6,6,0,1, 1,est_4_109,109.0,USERA,N/A,40.3871,-3.7069,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+LEGAZPI,7,6,1,1, 1,est_4_43,43.0,LEGAZPI,N/A,40.39116,-3.6951099999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ ARGANZUELA-PLANETARIO,8,6,1,1, 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+MENDEZ ALVARO,9,6,0,1, 0,est_90_13,13.0,MENDEZ ALVARO,Calle del Ombu 16,40.395379999999996,-3.6781900000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PACIFICO,10,6,0,1, 1,est_4_18,18.0,PACIFICO,N/A,40.40126,-3.6751400000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CONDE DE CASAL,11,6,1,1, 1,est_4_113,113.0,CONDE DE CASAL,N/A,40.40697,-3.67041,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SAINZ DE BARANDA,12,6,1,1, 1,est_4_114,114.0,SAINZ DE BARANDA,N/A,40.41507,-3.66951,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+"""ODONNELL""",13,6,0,1, 0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+MANUEL BECERRA,14,6,0,1, 0,est_4_29,29.0,MANUEL BECERRA,N/A,40.4279,-3.66926,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+DIEGO DE LEON,15,6,0,1, 0,est_4_63,63.0,DIEGO DE LEON,N/A,40.43468,-3.67495,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+AVENIDA DE AMERICA,16,6,0,1, 0,est_90_4,4.0,AVENIDA DE AMERICA,Avda de América 9 A,40.43803,-3.6766900000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+REPUBLICA ARGENTINA,17,6,0,1, 0,est_4_119,119.0,REPUBLICA ARGENTINA,N/A,40.44379,-3.6840599999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+NUEVOS MINISTERIOS,18,6,0,1, 0,est_90_71,71.0,NUEVOS MINISTERIOS,Calle de Raimundo Fernández Villaverde 67,40.44662,-3.69246,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CUATRO CAMINOS,19,6,1,1, 1,est_4_6,6.0,CUATRO CAMINOS,N/A,40.44697,-3.7039699999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+GUZMAN EL BUENO,20,6,1,0, 1,est_4_122,122.0,GUZMAN EL BUENO,N/A,40.44637,-3.7122900000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+VICENTE ALEIXANDRE,21,6,0,1, 0,est_4_123,123.0,VICENTE ALEIXANDRE,N/A,40.44644,-3.7194300000000005,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CIUDAD UNIVERSITARIA,22,6,1,1, 1,est_4_124,124.0,CIUDAD UNIVERSITARIA,N/A,40.44356,-3.72678,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MONCLOA,23,6,1,1, 1,est_90_14,14.0,MONCLOA,Plaza de la Moncloa 1,40.43523,-3.71919,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ARGÜELLES,24,6,1,0, 1,est_4_52,52.0,ARGÜELLES,N/A,40.430659999999996,-3.71596,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PRINCIPE PIO,25,6,0,1, 1,est_90_18,18.0,PRINCIPE PIO,Paseo de la Florida 2,40.42107,-3.7203699999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PUERTA DEL ANGEL,26,6,0,1, 0,est_4_128,128.0,PUERTA DEL ANGEL,N/A,40.4139,-3.72724,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ALTO DE EXTREMADURA,27,6,0,1, 0,est_4_129,129.0,ALTO DE EXTREMADURA,N/A,40.409929999999996,-3.73894,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+LUCERO,28,6,1,0, 1,est_4_130,130.0,LUCERO,N/A,40.4051,-3.74534,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+HOSPITAL DEL HENARES,1,7,1,1, 1,est_4_296,296.0,HOSPITAL DEL HENARES,N/A,40.417609999999996,-3.53453,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+HENARES,2,7,1,1, 1,est_4_292,292.0,HENARES,N/A,40.417770000000004,-3.5271800000000004,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+JARAMA,3,7,1,1, 1,est_4_291,291.0,JARAMA,N/A,40.42295,-3.52549,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SAN FERNANDO,4,7,1,1, 1,est_4_290,290.0,SAN FERNANDO,N/A,40.424409999999995,-3.5354099999999997,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LA RAMBLA,5,7,1,1, 1,est_4_289,289.0,LA RAMBLA,N/A,40.42514,-3.5479199999999995,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+COSLADA CENTRAL,6,7,0,1, 0,est_4_288,288.0,COSLADA CENTRAL,N/A,40.42374,-3.5611900000000003,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+BARRIO DEL PUERTO,7,7,1,1, 1,est_4_287,287.0,BARRIO DEL PUERTO,N/A,40.4225,-3.5691900000000003,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ESTADIO METROPOLITANO,8,7,1,1, 1,est_4_286,286.0,ESTADIO METROPOLITANO,N/A,40.43339,-3.60015,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LAS MUSAS,9,7,0,0, 0,est_4_132,132.0,LAS MUSAS,N/A,40.432990000000004,-3.60788,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SAN BLAS,10,7,0,0, 0,est_4_133,133.0,SAN BLAS,N/A,40.42799,-3.6154699999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SIMANCAS,11,7,0,0, 0,est_4_134,134.0,SIMANCAS,N/A,40.42799,-3.62572,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+GARCIA NOBLEJAS,12,7,0,0, 0,est_4_135,135.0,GARCIA NOBLEJAS,N/A,40.42842,-3.6333,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ASCAO,13,7,0,1, 0,est_4_136,136.0,ASCAO,N/A,40.430209999999995,-3.64106,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PUEBLO NUEVO,14,7,1,0, 1,est_4_78,78.0,PUEBLO NUEVO,N/A,40.43569,-3.6428199999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+BARRIO DE LA CONCEPCION,15,7,0,1, 0,est_4_138,138.0,BARRIO DE LA CONCEPCION,N/A,40.4391,-3.6519999999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PARQUE DE LAS AVENIDAS,16,7,0,1, 0,est_4_139,139.0,PARQUE DE LAS AVENIDAS,N/A,40.43945,-3.6629699999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CARTAGENA,17,7,0,1, 0,est_4_140,140.0,CARTAGENA,N/A,40.43934,-3.67215,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+AVENIDA DE AMERICA,18,7,0,1, 0,est_90_4,4.0,AVENIDA DE AMERICA,Avda de América 9 A,40.43803,-3.6766900000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+GREGORIO MARAÑON,19,7,1,0, 1,est_4_142,142.0,GREGORIO MARAÑON,N/A,40.43825,-3.6914800000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ALONSO CANO,20,7,1,0, 1,est_4_143,143.0,ALONSO CANO,N/A,40.43838,-3.69925,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CANAL,21,7,1,1, 1,est_4_41,41.0,CANAL,N/A,40.43841,-3.70433,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ISLAS FILIPINAS,22,7,1,1, 1,est_4_145,145.0,ISLAS FILIPINAS,N/A,40.43907,-3.7137300000000004,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+GUZMAN EL BUENO,23,7,1,0, 1,est_4_122,122.0,GUZMAN EL BUENO,N/A,40.44637,-3.7122900000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+FRANCOS RODRIGUEZ,24,7,1,1, 1,est_4_147,147.0,FRANCOS RODRIGUEZ,N/A,40.45648,-3.71239,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+VALDEZARZA,25,7,1,1, 1,est_4_148,148.0,VALDEZARZA,N/A,40.46482,-3.7159699999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ANTONIO MACHADO,26,7,1,1, 1,est_4_149,149.0,ANTONIO MACHADO,N/A,40.47022,-3.71769,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PEÑAGRANDE,27,7,1,1, 1,est_4_150,150.0,PEÑAGRANDE,N/A,40.47592,-3.71582,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+AVENIDA DE LA ILUSTRACION,28,7,0,0, 1,est_4_151,151.0,AVENIDA DE LA ILUSTRACION,N/A,40.4801,-3.7184,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LACOMA,29,7,0,0, 1,est_4_152,152.0,LACOMA,N/A,40.48502,-3.72305,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PITIS,30,7,0,0, 1,est_4_154,154.0,PITIS,N/A,40.49511,-3.72589,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+NUEVOS MINISTERIOS,1,8,0,1, 0,est_90_71,71.0,NUEVOS MINISTERIOS,Calle de Raimundo Fernández Villaverde 67,40.44662,-3.69246,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+COLOMBIA,2,8,1,1, 1,est_4_156,156.0,COLOMBIA,N/A,40.456340000000004,-3.6768199999999998,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PINAR DEL REY,3,8,1,1, 1,est_4_258,258.0,PINAR DEL REY,N/A,40.468,-3.6486699999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MAR DE CRISTAL,4,8,1,1, 1,est_4_71,71.0,MAR DE CRISTAL,N/A,40.469429999999996,-3.6383199999999998,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+FERIA DE MADRID,5,8,1,1, 1,est_4_158,158.0,FERIA DE MADRID,N/A,40.46389,-3.6162,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+AEROPUERTO T1-T2-T3,6,8,0,0, 1,est_90_34,34.0,AEROPUERTO T1-T2-T3,Avda de la Hispanidad SN,40.46864,-3.56965,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+BARAJAS,7,8,1,1, 1,est_4_160,160.0,BARAJAS,N/A,40.475770000000004,-3.58253,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+AEROPUERTO T4,8,8,0,0, 1,est_90_33,33.0,AEROPUERTO T4,Ctra de Alcobendas a Barajas SN,40.49176,-3.5935599999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PACO DE LUCIA,1,9,1,1, 1,est_4_345,345.0,PACO DE LUCIA,N/A,40.49965,-3.70908,N/A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+MIRASIERRA,2,9,1,1, 1,est_4_326,326.0,MIRASIERRA,N/A,40.4911,-3.71634,N/A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+HERRERA ORIA,3,9,0,1, 0,est_4_161,161.0,HERRERA ORIA,N/A,40.48466,-3.7075099999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+BARRIO DEL PILAR,4,9,0,1, 0,est_4_162,162.0,BARRIO DEL PILAR,N/A,40.476890000000004,-3.70316,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+VENTILLA,5,9,0,1, 0,est_4_163,163.0,VENTILLA,N/A,40.469440000000006,-3.6958800000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PLAZA DE CASTILLA,6,9,0,1, 1,est_90_21,21.0,PLAZA DE CASTILLA,Paseo de la Castellana 189,40.4669,-3.6892,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+DUQUE DE PASTRANA,7,9,0,1, 0,est_4_165,165.0,DUQUE DE PASTRANA,N/A,40.46763,-3.6791699999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PIO XII,8,9,0,1, 0,est_4_166,166.0,PIO XII,N/A,40.463,-3.67579,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+COLOMBIA,9,9,1,1, 1,est_4_156,156.0,COLOMBIA,N/A,40.456340000000004,-3.6768199999999998,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CONCHA ESPINA,10,9,0,1, 0,est_4_168,168.0,CONCHA ESPINA,N/A,40.45145,-3.6773800000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CRUZ DEL RAYO,11,9,0,1, 0,est_4_169,169.0,CRUZ DEL RAYO,N/A,40.44427,-3.67821,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+AVENIDA DE AMERICA,12,9,0,1, 0,est_90_4,4.0,AVENIDA DE AMERICA,Avda de América 9 A,40.43803,-3.6766900000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+NUÑEZ DE BALBOA,13,9,0,1, 0,est_4_83,83.0,NUÑEZ DE BALBOA,N/A,40.43278,-3.68258,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PRINCIPE DE VERGARA,14,9,0,1, 0,est_4_31,31.0,PRINCIPE DE VERGARA,N/A,40.422940000000004,-3.6801199999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ IBIZA,15,9,0,1, 0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+SAINZ DE BARANDA,16,9,1,1, 1,est_4_114,114.0,SAINZ DE BARANDA,N/A,40.41507,-3.66951,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ESTRELLA,17,9,0,1, 0,est_4_175,175.0,ESTRELLA,N/A,40.41147,-3.6617900000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+VINATEROS,18,9,0,1, 0,est_4_176,176.0,VINATEROS,N/A,40.41024,-3.6527300000000005,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ARTILLEROS,19,9,0,1, 0,est_4_177,177.0,ARTILLEROS,N/A,40.40522,-3.64181,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PAVONES,20,9,0,1, 0,est_4_178,178.0,PAVONES,N/A,40.40051,-3.6351199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+VALDEBERNARDO,21,9,1,1, 1,est_4_179,179.0,VALDEBERNARDO,N/A,40.40005,-3.6215599999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+VICALVARO,22,9,1,1, 1,est_4_180,180.0,VICALVARO,N/A,40.40422,-3.60886,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SAN CIPRIANO,23,9,1,1, 1,est_4_181,181.0,SAN CIPRIANO,N/A,40.40381,-3.60239,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PUERTA DE ARGANDA,24,9,1,1, 1,est_4_182,182.0,PUERTA DE ARGANDA,N/A,40.40132,-3.5959800000000004,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+RIVAS URBANIZACIONES,25,9,1,1, 1,est_4_183,183.0,RIVAS URBANIZACIONES,N/A,40.36677,-3.54728,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+RIVAS FUTURA,26,9,1,1, 1,est_4_300,300.0,RIVAS FUTURA,N/A,40.34134,-3.5247900000000003,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+RIVAS VACIAMADRID,27,9,1,1, 1,est_4_184,184.0,RIVAS VACIAMADRID,N/A,40.32837,-3.5206,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LA POVEDA,28,9,1,1, 1,est_4_185,185.0,LA POVEDA,N/A,40.31902,-3.47745,B3,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ARGANDA DEL REY,29,9,1,1, 1,est_4_186,186.0,ARGANDA DEL REY,N/A,40.303670000000004,-3.44752,B3,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+HOSPITAL INFANTA SOFIA,1,10,1,1, 1,est_4_284,284.0,HOSPITAL INFANTA SOFIA,N/A,40.55977,-3.61145,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+REYES CATOLICOS,2,10,1,1, 1,est_4_283,283.0,REYES CATOLICOS,N/A,40.55037,-3.6234,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+BAUNATAL,3,10,1,1, 1,est_4_282,282.0,BAUNATAL,N/A,40.55442,-3.63513,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MANUEL DE FALLA,4,10,1,1, 1,est_4_281,281.0,MANUEL DE FALLA,N/A,40.55048,-3.6468800000000003,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MARQUES DE LA VALDAVIA,5,10,1,1, 1,est_4_280,280.0,MARQUES DE LA VALDAVIA,N/A,40.54102,-3.6373800000000003,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LA MORALEJA,6,10,1,1, 1,est_4_279,279.0,LA MORALEJA,N/A,40.53196,-3.63556,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LA GRANJA,7,10,1,1, 1,est_4_278,278.0,LA GRANJA,N/A,40.5276,-3.6585900000000002,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+RONDA DE LA COMUNICACION,8,10,1,0, 1,est_4_277,277.0,RONDA DE LA COMUNICACION,N/A,40.51553,-3.6627699999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LAS TABLAS,9,10,1,1, 1,est_4_276,276.0,LAS TABLAS,N/A,40.50833,-3.6694400000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MONTECARMELO,10,10,1,1, 1,est_4_275,275.0,MONTECARMELO,N/A,40.50525,-3.69575,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+TRES OLIVOS,11,10,1,1, 1,est_4_274,274.0,TRES OLIVOS,N/A,40.5012,-3.6952,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+FUENCARRAL,12,10,0,1, 0,est_4_187,187.0,FUENCARRAL,N/A,40.495090000000005,-3.6928300000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+BEGOÑA,13,10,0,1, 0,est_4_188,188.0,BEGOÑA,N/A,40.48041,-3.68585,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CHAMARTIN,14,10,1,1, 1,est_90_25,25.0,CHAMARTIN,Calle de Agustín de Foxá 40,40.4721,-3.68269,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PLAZA DE CASTILLA,15,10,0,1, 1,est_90_21,21.0,PLAZA DE CASTILLA,Paseo de la Castellana 189,40.4669,-3.6892,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+CUZCO,16,10,0,1, 0,est_4_191,191.0,CUZCO,N/A,40.458420000000004,-3.68985,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+SANTIAGO BERNABEU,17,10,0,0, 0,est_4_192,192.0,SANTIAGO BERNABEU,N/A,40.45159,-3.69038,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+NUEVOS MINISTERIOS,18,10,0,1, 0,est_90_71,71.0,NUEVOS MINISTERIOS,Calle de Raimundo Fernández Villaverde 67,40.44662,-3.69246,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+GREGORIO MARAÑON,19,10,1,0, 1,est_4_142,142.0,GREGORIO MARAÑON,N/A,40.43825,-3.6914800000000003,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ALONSO MARTINEZ,20,10,0,1, 0,est_4_57,57.0,ALONSO MARTINEZ,N/A,40.42772,-3.6959400000000002,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+TRIBUNAL,21,10,0,1, 0,est_4_10,10.0,TRIBUNAL,N/A,40.426190000000005,-3.7011,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PLAZA DE ESPAÑA,22,10,1,0, 1,est_4_50,50.0,PLAZA DE ESPAÑA,N/A,40.42342,-3.7112,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PRINCIPE PIO,23,10,0,1, 1,est_90_18,18.0,PRINCIPE PIO,Paseo de la Florida 2,40.42107,-3.7203699999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ LAGO,24,10,1,0, 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+BATAN,25,10,1,0, 1,est_4_200,200.0,BATAN,N/A,40.40786,-3.75311,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CASA DE CAMPO,26,10,1,1, 1,est_4_103,103.0,CASA DE CAMPO,N/A,40.403240000000004,-3.7610099999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+COLONIA JARDIN,27,10,0,0, 1,est_4_202,202.0,COLONIA JARDIN,N/A,40.39698,-3.7746199999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+AVIACION ESPAÑOLA,28,10,1,1, 1,est_4_257,257.0,AVIACION ESPAÑOLA,N/A,40.38364,-3.7839199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CUATRO VIENTOS,29,10,1,1, 1,est_4_203,203.0,CUATRO VIENTOS,N/A,40.37771,-3.79152,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+JOAQUIN VILUMBRALES,30,10,1,1, 1,est_4_204,204.0,JOAQUIN VILUMBRALES,N/A,40.34985,-3.8072,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PUERTA DEL SUR,31,10,1,1, 1,est_4_205,205.0,PUERTA DEL SUR,N/A,40.345240000000004,-3.8121099999999997,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PLAZA ELIPTICA,1,11,1,1, 1,est_90_36,36.0,PLAZA ELIPTICA,Calle  Vía Lusitana 2,40.3846,-3.7184800000000005,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+ABRANTES,2,11,1,0, 1,est_4_207,207.0,ABRANTES,N/A,40.380829999999996,-3.7279,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PAN BENDITO,3,11,1,0, 1,est_4_208,208.0,PAN BENDITO,N/A,40.37587,-3.7341699999999998,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SAN FRANCISCO,4,11,1,0, 1,est_4_254,254.0,SAN FRANCISCO,N/A,40.3736,-3.7391,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CARABANCHEL ALTO,5,11,1,0, 1,est_4_255,255.0,CARABANCHEL ALTO,N/A,40.372,-3.7519099999999996,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LA PESETA,6,11,1,1, 1,est_4_256,256.0,LA PESETA,N/A,40.36422,-3.7569,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LA FORTUNA,7,11,1,0, 1,est_4_305,305.0,LA FORTUNA,N/A,40.35795,-3.7778300000000002,N/A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PUERTA DEL SUR,1,12,1,1, 1,est_4_205,205.0,PUERTA DEL SUR,N/A,40.345240000000004,-3.8121099999999997,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PARQUE LISBOA,2,12,1,0, 1,est_4_210,210.0,PARQUE LISBOA,N/A,40.34969,-3.8212,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ALCORCON CENTRAL,3,12,1,0, 1,est_4_211,211.0,ALCORCON CENTRAL,N/A,40.35008,-3.83178,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PARQUE OESTE,4,12,1,0, 1,est_4_212,212.0,PARQUE OESTE,N/A,40.345890000000004,-3.84934,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+UNIVERSIDAD REY JUAN CARLOS,5,12,1,1, 1,est_4_213,213.0,UNIVERSIDAD REY JUAN CARLOS,N/A,40.33512,-3.87218,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MOSTOLES CENTRAL,6,12,1,1, 1,est_4_214,214.0,MOSTOLES CENTRAL,N/A,40.3285,-3.86354,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PRADILLO,7,12,1,1, 1,est_4_215,215.0,PRADILLO,N/A,40.32168,-3.86489,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+HOSPITAL DE MOSTOLES,8,12,1,1, 1,est_4_216,216.0,HOSPITAL DE MOSTOLES,N/A,40.316520000000004,-3.87471,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+MANUELA MALASAÑA,9,12,1,1, 1,est_4_217,217.0,MANUELA MALASAÑA,N/A,40.30903,-3.8640199999999996,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LORANCA,10,12,1,1, 1,est_4_218,218.0,LORANCA,N/A,40.29681,-3.83768,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+HOSPITAL DE FUENLABRADA,11,12,1,1, 1,est_4_219,219.0,HOSPITAL DE FUENLABRADA,N/A,40.285759999999996,-3.81642,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PARQUE EUROPA,12,12,1,1, 1,est_4_220,220.0,PARQUE EUROPA,N/A,40.28518,-3.80632,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+FUENLABRADA CENTRAL,13,12,1,1, 1,est_4_221,221.0,FUENLABRADA CENTRAL,N/A,40.28268,-3.79891,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+PARQUE DE LOS ESTADOS,14,12,1,1, 1,est_4_222,222.0,PARQUE DE LOS ESTADOS,N/A,40.286840000000005,-3.7869699999999997,B2,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ARROYO CULEBRO,15,12,1,1, 1,est_4_223,223.0,ARROYO CULEBRO,N/A,40.288740000000004,-3.75682,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CONSERVATORIO,16,12,1,1, 1,est_4_224,224.0,CONSERVATORIO,N/A,40.293240000000004,-3.7457599999999998,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ALONSO DE MENDOZA,17,12,1,1, 1,est_4_225,225.0,ALONSO DE MENDOZA,N/A,40.30081,-3.73664,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+GETAFE CENTRAL,18,12,1,1, 1,est_4_226,226.0,GETAFE CENTRAL,N/A,40.30993,-3.73403,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+ JUAN DE LA CIERVA,19,12,1,1, 1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,metro
+EL CASAR,20,12,1,1, 1,est_4_228,228.0,EL CASAR,N/A,40.31862,-3.70985,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LOS ESPARTALES,21,12,1,1, 1,est_4_229,229.0,LOS ESPARTALES,N/A,40.32423,-3.7182,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+EL BERCIAL,22,12,1,1, 1,est_4_230,230.0,EL BERCIAL,N/A,40.32907,-3.7296300000000002,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+EL CARRASCAL,23,12,1,1, 1,est_4_231,231.0,EL CARRASCAL,N/A,40.33664,-3.7401800000000005,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+JULIAN BESTEIRO,24,12,1,1, 1,est_4_232,232.0,JULIAN BESTEIRO,N/A,40.33475,-3.7526599999999997,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+CASA DEL RELOJ,25,12,1,1, 1,est_4_233,233.0,CASA DEL RELOJ,N/A,40.3266,-3.7594199999999995,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+HOSPITAL SEVERO OCHOA,26,12,1,1, 1,est_4_234,234.0,HOSPITAL SEVERO OCHOA,N/A,40.32177,-3.7679699999999996,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+LEGANES CENTRAL,27,12,1,1, 1,est_4_235,235.0,LEGANES CENTRAL,N/A,40.328990000000005,-3.7715400000000003,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+SAN NICASIO,28,12,1,1, 1,est_4_236,236.0,SAN NICASIO,N/A,40.33616,-3.77587,B1,http://www.crtm.es,1.0,N/A,Europe/Madrid,2.0,metro
+OPERA,1,13,1,1, 1,est_4_36,36.0,OPERA,N/A,40.41809,-3.7094199999999997,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PRINCIPE PIO,2,13,0,1, 1,est_90_18,18.0,PRINCIPE PIO,Paseo de la Florida 2,40.42107,-3.7203699999999995,A,http://www.crtm.es,1.0,N/A,Europe/Madrid,0.0,metro
+PINAR DE CHAMARTIN,1,1,0,0, 1,par_10_1,1,PINAR DE CHAMARTIN,N/A,40.480140000000006,-3.66684,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+FUENTE DE LA MORA,2,1,0,1, 1,par_10_2,2,FUENTE DE LA MORA,N/A,40.48482,-3.66325,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+VIRGEN DEL CORTIJO,3,1,0,0, 1,par_10_3,3,VIRGEN DEL CORTIJO,N/A,40.48734,-3.6609800000000003,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+ANTONIO SAURA,4,1,0,0, 1,par_10_4,4,ANTONIO SAURA,N/A,40.485459999999996,-3.6535300000000004,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+ALVAREZ DE VILLAAMIL,5,1,0,0, 1,par_10_5,5,ALVAREZ DE VILLAAMIL,N/A,40.48905,-3.65136,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+BLASCO IBAÑEZ,6,1,0,1, 1,par_10_6,6,BLASCO IBAÑEZ,N/A,40.49368,-3.65584,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+MARIA TUDOR,7,1,1,1, 1,par_10_7,7,MARIA TUDOR,N/A,40.497170000000004,-3.65889,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+PALAS DE REY,8,1,0,0, 1,par_10_8,8,PALAS DE REY,N/A,40.50544,-3.6650699999999996,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+LAS TABLAS,9,1,0,0, 1,par_10_9,9,LAS TABLAS,N/A,40.50824,-3.66932,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+COLONIA JARDIN,1,2,0,0, 1,par_10_10,10,COLONIA JARDIN,N/A,40.39698,-3.7745599999999997,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+COLONIA JARDIN,1,2,0,0, 1,par_10_24,24,COLONIA JARDIN,N/A,40.39698,-3.77451,A,http://www.crtm.es,0,est_10_10,N/A,2,metroLigero
+PRADO DE LA VEGA,2,2,0,0, 1,par_10_11,11,PRADO DE LA VEGA,N/A,40.4023,-3.7812099999999997,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+COLONIA DE LOS ANGELES,3,2,0,0, 1,par_10_12,12,COLONIA DE LOS ANGELES,N/A,40.40721,-3.7844,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+PRADO DEL REY,4,2,0,0, 1,par_10_13,13,PRADO DEL REY,N/A,40.410470000000004,-3.7874800000000004,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+SOMOSAGUAS SUR,5,2,1,0, 1,par_10_14,14,SOMOSAGUAS SUR,N/A,40.41536,-3.7925199999999997,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+SOMOSAGUAS CENTRO,6,2,0,0, 1,par_10_15,15,SOMOSAGUAS CENTRO,N/A,40.41937,-3.79874,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+POZUELO OESTE,7,2,0,0, 1,par_10_16,16,POZUELO OESTE,N/A,40.42307,-3.80447,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+BELGICA,8,2,0,0, 1,par_10_18,18,BELGICA,N/A,40.43058,-3.80755,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+DOS CASTILLAS,9,2,0,0, 1,par_10_19,19,DOS CASTILLAS,N/A,40.43253,-3.8016199999999998,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+CAMPUS DE SOMOSAGUAS,10,2,0,0, 1,par_10_20,20,CAMPUS DE SOMOSAGUAS,N/A,40.43338,-3.79525,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+AVENIDA DE EUROPA,11,2,0,1, 1,par_10_21,21,AVENIDA DE EUROPA,N/A,40.43931,-3.79305,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+BERNA,12,2,0,0, 1,par_10_22,22,BERNA,N/A,40.44487,-3.7912,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+ESTACION DE ARAVACA,13,2,0,0, 1,par_10_23,23,ESTACION DE ARAVACA,N/A,40.44833,-3.78591,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+COLONIA JARDIN,1,3,0,0, 1,par_10_10,10,COLONIA JARDIN,N/A,40.39698,-3.7745599999999997,A,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+COLONIA JARDIN,1,3,0,0, 1,par_10_24,24,COLONIA JARDIN,N/A,40.39698,-3.77451,A,http://www.crtm.es,0,est_10_10,N/A,2,metroLigero
+CIUDAD DE LA IMAGEN,2,3,0,0, 1,par_10_25,25,CIUDAD DE LA IMAGEN,N/A,40.397090000000006,-3.78399,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+JOSE ISBERT,3,3,0,0, 1,par_10_26,26,JOSE ISBERT,N/A,40.39525,-3.7899300000000005,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+CIUDAD DEL CINE,4,3,0,0, 1,par_10_27,27,CIUDAD DEL CINE,N/A,40.39455,-3.7955699999999997,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+COCHERAS,5,3,0,0, 1,par_10_39,39,COCHERAS,N/A,40.396879999999996,-3.80386,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+RETAMARES,6,3,0,0, 1,par_10_28,28,RETAMARES,N/A,40.398720000000004,-3.81675,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+MONTEPRINCIPE,7,3,1,0, 1,par_10_29,29,MONTEPRINCIPE,N/A,40.39792,-3.8358,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+VENTORRO DEL CANO,8,3,0,0, 1,par_10_30,30,VENTORRO DEL CANO,N/A,40.3942,-3.83811,B1,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+PRADO DEL ESPINO,9,3,0,0, 1,par_10_31,31,PRADO DEL ESPINO,N/A,40.39502,-3.84774,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+CANTABRIA,10,3,0,0, 1,par_10_32,32,CANTABRIA,N/A,40.39529,-3.86439,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+FERIAL DE BOADILLA,11,3,0,0, 1,par_10_33,33,FERIAL DE BOADILLA,N/A,40.401959999999995,-3.8793800000000003,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+BOADILLA CENTRO,12,3,0,0, 1,par_10_34,34,BOADILLA CENTRO,N/A,40.407140000000005,-3.88004,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+NUEVO MUNDO,13,3,0,0, 1,par_10_35,35,NUEVO MUNDO,N/A,40.405640000000005,-3.88576,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+SIGLO XXI,14,3,0,0, 1,par_10_36,36,SIGLO XXI,N/A,40.40513,-3.8926300000000005,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+INFANTE DON LUIS,15,3,0,0, 1,par_10_37,37,INFANTE DON LUIS,N/A,40.40595,-3.89741,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+PUERTA DE BOADILLA,16,3,0,0, 1,par_10_38,38,PUERTA DE BOADILLA,N/A,40.40777,-3.9037800000000002,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+ESTRELLA POLAR NORTE,1,4,0,0, 1,par_10_64,64,ESTRELLA POLAR NORTE,N/A,40.23015,-3.75112,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+ESTRELLA POLAR SUR,2,4,0,0, 1,par_10_65,65,ESTRELLA POLAR SUR,N/A,40.23072,-3.7538300000000002,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+JAIME I NORTE,3,4,0,0, 1,par_10_66,66,JAIME I NORTE,N/A,40.234140000000004,-3.74969,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+JAIME I SUR,4,4,0,0, 1,par_10_67,67,JAIME I SUR,N/A,40.2347,-3.7524,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+POLIGONO INDUSTRIAL CIUDAD DE PARLA,5,4,0,0, 1,par_10_68,68,POLIGONO INDUSTRIAL CIUDAD DE PARLA,N/A,40.23867,-3.75045,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+PLAZA DE TOROS,6,4,0,0, 1,par_10_50,50,PLAZA DE TOROS,N/A,40.2441,-3.75756,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+JULIO ROMERO DE TORRES,7,4,0,0, 1,par_10_51,51,JULIO ROMERO DE TORRES,N/A,40.24535,-3.76232,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+LA BALLENA,8,4,0,0, 1,par_10_52,52,LA BALLENA,N/A,40.24599,-3.76635,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+PARLA CENTRO - BULEVAR NORTE,9,4,0,0, 1,par_10_53,53,PARLA CENTRO - BULEVAR NORTE,N/A,40.240790000000004,-3.76954,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+IGLESIA CENTRO,10,4,0,0, 1,par_10_54,54,IGLESIA CENTRO,N/A,40.23771,-3.7705900000000003,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+BULEVAR SUR,11,4,0,0, 1,par_10_55,55,BULEVAR SUR,N/A,40.23473,-3.77236,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+REYES CATOLICOS,12,4,0,0, 1,par_10_56,56,REYES CATOLICOS,N/A,40.23141,-3.77,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+ISABEL II,13,4,0,0, 1,par_10_57,57,ISABEL II,N/A,40.23114,-3.76508,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+PARQUE PARLA ESTE,14,4,0,0, 1,par_10_58,58,PARQUE PARLA ESTE,N/A,40.228159999999995,-3.7614699999999996,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+AVENIDA SISTEMA SOLAR,15,4,0,0, 1,par_10_59,59,AVENIDA SISTEMA SOLAR,N/A,40.22343,-3.7607199999999996,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+TIERRA NORTE,16,4,0,0, 1,par_10_60,60,TIERRA NORTE,N/A,40.22195,-3.75406,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+TIERRA SUR,17,4,0,0, 1,par_10_61,61,TIERRA SUR,N/A,40.22254,-3.75675,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+VENUS NORTE,18,4,0,0, 1,par_10_62,62,VENUS NORTE,N/A,40.22627,-3.75251,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
+VENUS SUR,19,4,0,0, 1,par_10_63,63,VENUS SUR,N/A,40.22683,-3.7552199999999996,B2,http://www.crtm.es,0,N/A,Europe/Madrid,2,metroLigero
